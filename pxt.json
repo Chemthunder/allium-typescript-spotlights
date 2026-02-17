@@ -1,12 +1,11 @@
 {
     "name": "Allium - TypeScript Spotlights",
-    "description": "",
+    "description": "Guh!",
     "dependencies": {
         "device": "*",
         "Hyacinth": "pub:71854-44329-94148-00872"
     },
     "files": [
-        "main.ts",
         "README.md",
         "assets.json",
         "allium.ts"
